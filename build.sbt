@@ -1,4 +1,4 @@
-scalaVersion := "3.3.3"
+scalaVersion := "3.3.4"
 
 name := "nt-scala3-demo"
 version := "0.1"
